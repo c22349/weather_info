@@ -1,5 +1,5 @@
 # 天気情報アプリ
-このアプリケーションは、Open-Meteo (https://open-meteo.com/)のAPIを使用して "東京駅" の天気情報を取得し、コンソールまたはCSV形式で出力します
+このアプリケーションは、Open-Meteo ( https://open-meteo.com/ )のAPIを使用して "東京駅" の天気情報を取得し、コンソールまたはCSV形式で出力します
 
 ## 機能
 - Open-Meteo APIを使用して東京駅の天気情報を取得
