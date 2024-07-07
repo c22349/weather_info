@@ -1,6 +1,9 @@
 # 天気情報アプリ
 このアプリケーションは、Open-Meteo ( https://open-meteo.com/ )のAPIを使用して "東京駅" の天気情報を取得し、コンソールまたはCSV形式で出力します
 
+![weather_info](https://github.com/c22349/weather_info/assets/44188202/55b9ee40-0015-4724-b40b-f51951863c77)
+
+
 ## 機能
 - Open-Meteo APIを使用して東京駅の天気情報を取得
 - 取得した情報をコンソールへ出力する場合
