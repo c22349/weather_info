@@ -60,7 +60,7 @@
 
 - `python weather_info.py YYYY-MM-DD --csv`
 
-  天気情報をCSV形式で出力 (ダウンロードフォルダへ)
+  天気情報をCSV形式で出力 (デスクトップにdataフォルダを作成し出力)
   
   ・入力した日付
   
